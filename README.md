@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Elsheikh</h1>
 <h3 align="center">A passionate Full Stack developer from Sudan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadlelmulamustafa&label=Profile%20views&color=0e75b6&style=flat" alt="fadlelmulamustafa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadlelmulamustafa" alt="fadlelmulamustafa" /></a> </p>
-
 - 🌱 I’m currently learning **Svelte**
 
 - 📫 How to reach me **fadlmms@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,5 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadlelmulamustafa&show_icons=true&locale=en&layout=compact" alt="fadlelmulamustafa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadlelmulamustafa&show_icons=true&locale=en" alt="fadlelmulamustafa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadlelmulamustafa&" alt="fadlelmulamustafa" /></p>
